@@ -1,6 +1,0 @@
-AuthName "Development"
-AuthUserFile .htpasswd
-AuthType Basic
-Require valid-user
-ErrorDocument 401 /error_pages/401.html
-AddHandler server-parsed .html
