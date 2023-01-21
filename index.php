@@ -209,7 +209,7 @@
           <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />-->
+            <img src="https://norled.no/Static/img/logo.svg" width="178" class="img-responsive" alt="Norled Logo">
               <p class="customer-name">Norled</p>
             </div>
           </div>
