@@ -200,7 +200,7 @@
           <div class="customer-detail">
             <div class="customer-photo">
             <img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" loading="lazy" alt="SEAM Logo">
-              <p class="customer-name">Westcon/SEAM</p>
+              <!-- <p class="customer-name">Westcon/SEAM</p> -->
             </div>
           </div>
           <p class="testimonial-text">
@@ -210,18 +210,19 @@
           <div class="customer-detail">
             <div class="customer-photo">
             <img src="https://norled.no/Static/img/logo.svg" width="178" class="img-responsive" alt="Norled Logo">
-              <p class="customer-name">Norled</p>
+              <!-- <p class="customer-name">Norled</p> -->
             </div>
           </div>
           <p class="testimonial-text">
  
           </p>
         </div>
+
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
               <img src="https://www.nfk.no/kunde/grafikk/50871.NFK-logo-test%20(1).svg" alt="Nordland Fylkeskommune Logo" />
-              <p class="customer-name">NFK Sjøtransport</p>
+              <!-- <p class="customer-name">NFK Sjøtransport</p> -->
             </div>
           </div>
           <p class="testimonial-text">
@@ -229,37 +230,34 @@
           </p>
         </div>
         <br>
+
+          <div class="testimonial-box">
+            <div class="customer-detail">
+              <div class="customer-photo">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg" alt="SIEMENS ENERGY Logo" />
+                <!--<p class="customer-name">Siemens energy</p>-->
+              </div>
+            </div>
+          </div>
+
+
           <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg" alt="SIEMENS ENERGY Logo" />
-              <p class="customer-name">Siemens energy</p>
+              <img src="https://corvusenergy.com/wp-content/themes/corvus/assets/images/Corvus-logo.svg" alt="Corvus Energy Logo" />
+              <!-- <p class="customer-name">Corvus Energy</p> -->
             </div>
           </div>
-          <p class="testimonial-text">
-
-          </p>
           </div>
-          <div class="testimonial-box">
-          <div class="customer-detail">
+          <!-- <div class="customer-detail"> -->
             <div class="customer-photo">
-              <img src="https://corvusenergy.com/wp-content/themes/corvus/assets/images/Corvus-logo.svg" alt="" />
-              <p class="customer-name">Corvus Energy</p>
+              <img src="https://www.gann.no/s/gann2019/profile/Skoleskipet-Gann-logo-horisontal.svg" alt="Skoleskipet MS Gann Logo" />
+              <!-- <p class="customer-name">Skoleskipet MS Gann</p> -->
             </div>
-          </div>
-          <p class="testimonial-text">
+            <!-- <p class="testimonial-text">
 
-          </p>
-          </div>
-          <div class="customer-detail">
-            <div class="customer-photo">
-              <img src="https://www.gann.no/s/gann2019/profile/Skoleskipet-Gann-logo-horisontal.svg" alt="" />
-              <p class="customer-name">Skoleskipet MS Gann</p>
-            </div>
-            <p class="testimonial-text">
-
-            </p>
-          </div>
+            </p> -->
+          <!-- </div> -->
           <!--
           <div class="star-rating">
             <span class="fa fa-star checked"></span>
@@ -268,10 +266,9 @@
             <span class="fa fa-star checked"></span>
             <span class="fa fa-star checked"></span>
           </div>
-        -->
           <p class="testimonial-text">
 
-          </p>
+          </p>-->
          
         </div>
       </div>
