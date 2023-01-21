@@ -62,7 +62,7 @@
         </div>
       </div>
     </section>
-    <section id="food">
+    <!-- <section id="food">
       <h2>Noe av det vi har gjort</h2>
       <div class="food-container container">
         <div class="food-type fruite">
@@ -108,7 +108,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <section id="food-menu">
       <h2 class="food-menu-heading">Oversikt - delprosjekter</h2>
       <div class="food-menu-container container">
