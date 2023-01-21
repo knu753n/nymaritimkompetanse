@@ -199,7 +199,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-            <img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" loading="lazy" alt="">
+            <img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" loading="lazy" alt="SEAM Logo">
               <p class="customer-name">Westcon/SEAM</p>
             </div>
           </div>
@@ -220,7 +220,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />-->
+              <img src="https://www.nfk.no/kunde/grafikk/50871.NFK-logo-test%20(1).svg" alt="Nordland Fylkeskommune Logo" />
               <p class="customer-name">NFK Sjøtransport</p>
             </div>
           </div>
@@ -232,7 +232,7 @@
           <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />-->
+              <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg" alt="SIEMENS ENERGY Logo" />
               <p class="customer-name">Siemens energy</p>
             </div>
           </div>
@@ -243,7 +243,7 @@
           <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />-->
+              <img src="https://corvusenergy.com/wp-content/themes/corvus/assets/images/Corvus-logo.svg" alt="" />
               <p class="customer-name">Corvus Energy</p>
             </div>
           </div>
@@ -253,7 +253,7 @@
           </div>
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />-->
+              <img src="https://www.gann.no/s/gann2019/profile/Skoleskipet-Gann-logo-horisontal.svg" alt="" />
               <p class="customer-name">Skoleskipet MS Gann</p>
             </div>
             <p class="testimonial-text">
