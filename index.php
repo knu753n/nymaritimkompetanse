@@ -58,7 +58,7 @@
           </p>
         </div>
         <div class="about-img">
-          <img src="/nymaritimkompetanse.no/nymkadmin/Generell/Raadhus-pipe.jpg" alt="food" />
+          <img src="http://img.nymaritimkompetanse.no/Generell/Raadhus-pipe.jpg" alt="food" />
         </div>
       </div>
     </section>
@@ -149,7 +149,7 @@
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price"> NMK </p>
+            <p class="food-price"> <?php echo $name; ?> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -175,7 +175,7 @@
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
               quae.
             </p>
-            <p class="food-price"> NMK </p>
+            <p class="food-price"> <?php echo $name; ?> </p>
           </div>
         </div>
         <div class="food-menu-item">
