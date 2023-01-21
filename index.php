@@ -58,7 +58,7 @@
           </p>
         </div>
         <div class="about-img">
-          <img src="http://img.nymaritimkompetanse.no/Generell/Raadhus-pipe.jpg" alt="food" />
+          <img src="http://img.nymaritimkompetanse.no/Generell/IMG_3570.JPG" alt="food" />
         </div>
       </div>
     </section>
