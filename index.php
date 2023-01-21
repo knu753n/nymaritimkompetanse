@@ -41,7 +41,7 @@
       <div class="showcase-container">
         <h1 class="main-title" id="home">Ny Maritim Kompetanse</h1>
         <p>Ny teknologi inn i det grønne skiftet</p>
-        <a href="#food-menu" class="btn btn-primary">Delprosjekter</a>
+        <a href="#delprosjekter" class="btn btn-primary">Delprosjekter</a>
       </div>
     </section>
 
@@ -199,7 +199,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />-->
+            <a href="/" data-w-id="7ad4b39d-87b1-13ae-b753-615a456eae87" aria-current="page" class="logolink w-nav-brand w--current" aria-label="home"><img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/63931627d6b1a3e1dff28b28_Group%2039.svg" loading="lazy" alt="" class="seamicon" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"><img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/639316265f4f181346db5512_Group%2038.svg" loading="lazy" alt="" class="seamtext"></a>
               <p class="customer-name">Westcon/SEAM</p>
             </div>
           </div>
