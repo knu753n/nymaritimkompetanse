@@ -119,8 +119,8 @@
           <div class="food-description">
             <h2 class="food-titile">Børre Aasegg</h2>
             <p>
-Fokusområde: Prosjektleder
-Bakgrunn:
+              Fokusområde: Prosjektleder
+              Bakgrunn:
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
@@ -133,8 +133,8 @@ Bakgrunn:
           <div class="food-description">
             <h2 class="food-titile">Magne Mydland</h2>
             <p>
-Fokusområde: Tøysekopp
-Bakgrunn: Klassens klovn
+              Fokusområde: Tøysekopp
+              Bakgrunn: Klassens klovn
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
