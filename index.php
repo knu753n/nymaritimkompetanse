@@ -242,11 +242,10 @@ Bakgrunn: Klassens klovn
                 <!-- <p class="customer-name">Westcon/SEAM</p> -->
             </div>
           </div>
-            <p class="testimonial-text"></p>
-          </div>
+          <p class="testimonial-text"></p>
         </div>
 
-          <div class="testimonial-box">
+        <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
             <img src="https://norled.no/Static/img/logo.svg" loading="lazy" width="16%" alt="Norled Logo"/>
@@ -270,33 +269,32 @@ Bakgrunn: Klassens klovn
           </p>
         </div>
 
-          <div class="testimonial-box">
-            <div class="customer-detail">
-              <div class="customer-photo">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg" loading="lazy" width="16%" alt="SIEMENS ENERGY Logo" />
-                <!--<p class="customer-name">Siemens energy</p>-->
-              </div>
+        <div class="testimonial-box">
+          <div class="customer-detail">
+            <div class="customer-photo">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg" loading="lazy" width="16%" alt="SIEMENS ENERGY Logo" />
+              <!--<p class="customer-name">Siemens energy</p>-->
             </div>
           </div>
+        </div>
 
 
-          <div class="testimonial-box">
+        <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
               <img src="https://corvusenergy.com/wp-content/themes/corvus/assets/images/Corvus-logo.svg" loading="lazy" width="16%" alt="Corvus Energy Logo" />
               <!-- <p class="customer-name">Corvus Energy</p> -->
             </div>
           </div>
-          </div>
-          <!-- <div class="customer-detail"> -->
+        </div>
+        <div class="testamonial-box">
+          <div class="customer-detail">
             <div class="customer-photo">
               <img src="https://www.gann.no/s/gann2019/profile/Skoleskipet-Gann-logo-horisontal.svg" loading="lazy" width="16%" alt="Skoleskipet MS Gann Logo" />
-              <!-- <p class="customer-name">Skoleskipet MS Gann</p> -->
+                <!-- <p class="customer-name">Skoleskipet MS Gann</p> -->
             </div>
-            <!-- <p class="testimonial-text">
-
-            </p> -->
-          <!-- </div> -->
+            <!-- <p class="testimonial-text"></p> -->
+          </div>
           <!--
           <div class="star-rating">
             <span class="fa fa-star checked"></span>
