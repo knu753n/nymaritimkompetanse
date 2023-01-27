@@ -54,7 +54,7 @@
             Vi er en gjeng med forskjellige bakgrunner og utdanninger, som har sett et behov for
             å skaffe opplæringsmatriell for de nye båtene, systemene, drivstoffene og teknologiene
             som er under stadig utvikling. Vi skal i dette prosjektet samle, bygge og produsere
-            ny maritim kompetanse
+            ny maritim kompetanse. <a href="about.php">Les mer...</a>
           </p>
         </div>
         <div class="about-img">
@@ -110,17 +110,17 @@
       </div>
     </section> -->
     <section id="food-menu">
-      <h2 class="food-menu-heading">Oversikt - delprosjekter</h2>
+      <h2 class="food-menu-heading">Oversikt - deltakere</h2>
       <div class="food-menu-container container">
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://images.pexels.com/photos/8566532/pexels-photo-8566532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Siluett av båt" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Autonomi</h2>
+            <h2 class="food-titile">Børre Aasegg</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+Fokusområde: Prosjektleder
+Bakgrunn:
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
@@ -128,65 +128,104 @@
 
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://images.pexels.com/photos/698485/pexels-photo-698485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="error" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Magne.JPG" alt="Magne" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Batteri</h2>
+            <h2 class="food-titile">Magne Mydland</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+Fokusområde: Tøysekopp
+Bakgrunn: Klassens klovn
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://images.pexels.com/photos/10670941/pexels-photo-10670941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Roy Lerand" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Hydrogen</h2>
+            <h2 class="food-titile">Roy Lerand</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+              Fokusområde: Bilde og videomann
+              Bakgrunn: Tv2
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://media.istockphoto.com/id/906720020/photo/science-concept-methane-or-ammonium-molecules-3d-rendered-illustration.jpg?s=612x612&w=is&k=20&c=cPIvvaW_HeAcKmpqWQlKe1GhG9dNgCshR02w4xoDZgs=" alt="" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Atle Christiansen" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Ammoniakk</h2>
+            <h2 class="food-titile">Atle Christiansen</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+              Fokusområde: Titten Tei
+              Bakgrunn: Hundremeterskogen
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://images.pexels.com/photos/9962890/pexels-photo-9962890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Erlend Etellerannet" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Thorium</h2>
+            <h2 class="food-titile">Erlend Science guy</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+              Fokusområder: Atom-reaktor
+              Bakgrunn: Manhattan project
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Bjørn-willy" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile"></h2>
+            <h2 class="food-titile">Bjørn-Willy</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+              Fokusområde: Maskiner og motorer
+              Bakgrunn: Maskinistlærer
+            </p>
+            <p class="food-price"> <?php echo $name; ?> </p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Bjørn.jpeg" alt="Bjørn J. Knutsen" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Bjørn Jostein Knutsen</h2>
+            <p>
+              Fokusområde: nullere og enere
+              Bakgrunn: Datamann
+            </p>
+            <p class="food-price"> <?php echo $name; ?> </p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Magnus.jpg" alt="Magnus Østlien" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Magnus Østlien</h2>
+            <p>
+              Fokusområde: Studentinnvolvering og tilbakemelding
+              Bakgrunn: Student dekksofficer
+            </p>
+            <p class="food-price"> <?php echo $name; ?> </p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Brynjar" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Brynjar</h2>
+            <p>
+              Fokusområde: Studentinnvolvering og tilbakemelding
+              Bakgrunn: Maskiniststudent
             </p>
             <p class="food-price"> <?php echo $name; ?> </p>
           </div>
