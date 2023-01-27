@@ -238,13 +238,14 @@ Bakgrunn: Klassens klovn
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-            <img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" width="16%" loading="lazy" alt="SEAM Logo">
-              <!-- <p class="customer-name">Westcon/SEAM</p> -->
+              <img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" width="16%" loading="lazy" alt="SEAM Logo">
+                <!-- <p class="customer-name">Westcon/SEAM</p> -->
             </div>
           </div>
-          <p class="testimonial-text">
-          </p>
+            <p class="testimonial-text"></p>
           </div>
+        </div>
+
           <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
@@ -268,7 +269,6 @@ Bakgrunn: Klassens klovn
 
           </p>
         </div>
-        <br>
 
           <div class="testimonial-box">
             <div class="customer-detail">
