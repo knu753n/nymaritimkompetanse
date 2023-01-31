@@ -114,15 +114,17 @@
       <div class="food-menu-container container">
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Siluett av båt" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Børre.png" alt="Børre" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Børre Aasegg</h2>
             <p>
-              Fokusområde: Prosjektleder
-              Bakgrunn:
+            Tittel: Prosjektleder
+            Arbeidssted: Bodø Maritime
+            Fokusområde: Batteri-, Hydrogenteknologi, Hybrid drift, nye drivstoff
+            Bakgrunn: MARKOM, Lærer og fagkoordinator Bodin VGS og maritime fagskole.
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Nordland Fagskole </p>
           </div>
         </div>
 
@@ -133,10 +135,12 @@
           <div class="food-description">
             <h2 class="food-titile">Magne Mydland</h2>
             <p>
-              Fokusområde: Tøysekopp
-              Bakgrunn: Klassens klovn
+              Tittel: Kompetanseutvikler
+              Arbeidssted: Fagskolen i Agder, Grimstad
+              Fokusområde: Batteri-, Hydrogenteknologi, nye drivstoff
+              Bakgrunn: Lærer og maskinskjef på sørlandets maritime vgs, elektriker ERV teknikk
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Fagskolen i Agder </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -146,23 +150,27 @@
           <div class="food-description">
             <h2 class="food-titile">Roy Lerand</h2>
             <p>
-              Fokusområde: Bilde og videomann
-              Bakgrunn: Tv2
+              Tittle: Media-ansvarlig
+              Arbeidssted: Big See
+              Fokusområde: Media og videoproduksjon
+              Bakgrunn: Big See, Tv2
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Big See </p>
           </div>
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Atle Christiansen" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Atle.jpg" alt="Atle Christiansen" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Atle Christiansen</h2>
+            <h2 class="food-titile">Atle Martin Christiansen</h2>
             <p>
-              Fokusområde: Titten Tei
-              Bakgrunn: Hundremeterskogen
+              Tittel: Kompetanseutvikler
+              Arbeidssted: USN
+              Fokusområde: Autonomi og fjernstyring av maritime farkoster
+              Bakgrunn: Instituttleder USN, Senioringeniør forsvarets forksningsinstitutt
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Universitetet i sør-øst Norge </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -170,12 +178,14 @@
             <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Erlend Etellerannet" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Erlend Science guy</h2>
+            <h2 class="food-titile">Erlend Nicolay Morland</h2>
             <p>
-              Fokusområder: Atom-reaktor
-              Bakgrunn: Manhattan project
+              Tittel: Kompetanseutvikler
+              Arbeidssted: USN
+              Fokusområder: Crew kompetanse, Trening og utdanning for atomdrevne handelsskip
+              Bakgrunn: Bachelor in electrical engineering and automation, Master of maritime management (Ongoing)
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Universitetet i sør-øst Norge </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -185,10 +195,12 @@
           <div class="food-description">
             <h2 class="food-titile">Bjørn-Willy</h2>
             <p>
+              Tittel: Kompetanseutvikler
+              Arbeidssted: Bodø Maritime
               Fokusområde: Maskiner og motorer
               Bakgrunn: Maskinistlærer
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Nordland Fagskole </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -198,10 +210,12 @@
           <div class="food-description">
             <h2 class="food-titile">Bjørn Jostein Knutsen</h2>
             <p>
-              Fokusområde: nullere og enere
-              Bakgrunn: Datamann
+              Tittel: EDB-Systemansvarlig
+              Arbeidssted: Fagskolen i Agder
+              Fokusområde: Nettportal, delingsplattform
+              Bakgrunn: Fagskolen i Agder, IKT-Agder
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Fagskolen i Agder </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -211,10 +225,12 @@
           <div class="food-description">
             <h2 class="food-titile">Magnus Østlien</h2>
             <p>
+              Tittel: Student
+              Studiested: Fagskolen i Agder
               Fokusområde: Studentinnvolvering og tilbakemelding
               Bakgrunn: Student dekksofficer
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Fagskolen i Agder </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -224,10 +240,12 @@
           <div class="food-description">
             <h2 class="food-titile">Brynjar</h2>
             <p>
+              Tittel: Student
+              Studeisted: Bodø Maritime
               Fokusområde: Studentinnvolvering og tilbakemelding
               Bakgrunn: Maskiniststudent
             </p>
-            <p class="food-price"> <?php echo $name; ?> </p>
+            <p class="food-price"> Nordland Fagskole </p>
           </div>
         </div>
       </div>
