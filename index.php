@@ -27,7 +27,7 @@
               <span class="line line3"></span>
           </div>
           <ul class="menu-items">
-              <li><a href="#home">Hjem</a></li>
+              <li><a href="#showcase">Hjem</a></li>
               <li><a href="#about">Om</a></li>
               <!--<li><a href="#base">Til nå</a></li>-->
               <li><a href="#base-menu">Deltakere</a></li>
