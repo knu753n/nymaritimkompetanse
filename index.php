@@ -323,6 +323,7 @@
         </div>
       </div>
     </section>
+    <!--
     <section id="contact">
       <div class="contact-container container">
         <div class="contact-img">
@@ -336,7 +337,7 @@
           <a href="#" class="btn btn-primary">Meld-på</a>
         </div>
       </div>
-    </section>
+    </section>-->
     <footer id="footer">
       <h2><?php echo $name; ?> &copy; all rights reserved</h2>
     </footer>
