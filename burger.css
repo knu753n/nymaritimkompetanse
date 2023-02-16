@@ -195,13 +195,13 @@ body {
   object-position: right;
 }
 
-/* ..........////Food category///........... */
+/* ..........////Base category///........... */
 
-#food {
+#base {
   padding: 5rem 0 10rem 0;
 }
 
-#food h2 {
+#base h2 {
   text-align: center;
   font-size: 2.5rem;
   font-weight: 400;
@@ -210,12 +210,12 @@ body {
   color: #555;
 }
 
-.food-container {
+.base-container {
   display: flex;
   justify-content: space-between;
 }
 
-.food-container img {
+.base-container img {
   display: block;
   width: 100%;
   margin: auto;
@@ -276,22 +276,22 @@ body {
   top: 40%;
 }
 
-/* .........../Food Menu/............ */
+/* .........../Base Menu/............ */
 
-.food-menu-heading {
+.base-menu-heading {
   text-align: center;
   font-size: 3.4rem;
   font-weight: 400;
   color: #666;
 }
 
-.food-menu-container {
+.base-menu-container {
   display: flex;
   flex-wrap: wrap;
   padding: 50px 0px 30px 0px;
 }
 
-.food-menu-container img {
+.base-menu-container img {
   display: block;
   width: 250px;
   height: 250px;
@@ -300,14 +300,14 @@ body {
   object-position: center;
 }
 
-.food-menu-item {
+.base-menu-item {
   display: flex;
   flex: 1 1 600px;
   justify-content: space-evenly;
   margin-bottom: 3rem;
 }
 
-.food-description {
+.base-description {
   margin: auto 1.5rem;
 }
 
@@ -317,13 +317,13 @@ body {
   color: #444;
 }
 
-.food-description p {
+.base-description p {
   font-size: 1.4rem;
   color: #555;
   font-weight: 500;
 }
 
-.food-description .food-price {
+.base-description .base-bold {
   color: #117964;
   font-weight: 700;
 }
@@ -555,18 +555,18 @@ body {
     transform: rotate(-35deg);
   }
 
-  /* ......./ food /......... */
+  /* ......./ Base /......... */
 
-  .food-container {
+  .base-container {
     flex-direction: column;
     align-items: stretch;
   }
 
-  .food-type:not(:last-child) {
+  .base-type:not(:last-child) {
     margin-bottom: 3rem;
   }
 
-  .food-type {
+  .base-type {
     box-shadow: 5px 5px 10px 0 #aaa;
   }
 
@@ -589,11 +589,11 @@ body {
     text-align: center;
   }
 
-  .food-menu-container img {
+  .base-menu-container img {
     margin: auto;
   }
 
-  .food-menu-item {
+  .base-menu-item {
     flex-direction: column;
     text-align: center;
   }
