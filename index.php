@@ -32,7 +32,7 @@
               <!--<li><a href="#base">Til nå</a></li>-->
               <li><a href="#base-menu">Deltakere</a></li>
               <li><a href="#testimonials">Våre samarbeidspartnere</a></li>
-              <li><a href="#contact">Nyhetsbrev</a></li>
+              <!--<li><a href="#contact">Nyhetsbrev</a></li>-->
           </ul>
           <h1 class="logo"><?php echo $name; ?></h1>
       </div>
