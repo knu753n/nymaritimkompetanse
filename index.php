@@ -287,7 +287,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://img.nymaritimkompetanse.no/Partners/Siemens_Energy_logo.svg" loading="lazy" alt="SIEMENS ENERGY Logo" />
+              <img src="https://img.nymaritimkompetanse.no/Partners/SE_Logo_White_RGB.svg" loading="lazy" alt="SIEMENS ENERGY Logo" />
               <!--<p class="customer-name">Siemens energy</p>-->
             </div>
           </div>
