@@ -263,7 +263,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-            <img src="https://norled.no/Static/img/logo.svg" loading="lazy" width="16%" alt="Norled Logo"/>
+            <img src="https://img.nymaritimkompetanse.no/Partners/Norledlogo.svg" loading="lazy" alt="Norled Logo"/>
               <!-- <p class="customer-name">Norled</p> -->
             </div>
           </div>
@@ -275,7 +275,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://www.nfk.no/kunde/grafikk/50871.NFK-logo-test%20(1).svg" loading="lazy" width="16%" alt="Nordland Fylkeskommune Logo" />
+              <img src="https://img.nymaritimkompetanse.no/Partners/NFKlogo.svg" loading="lazy" alt="Nordland Fylkeskommune Logo" />
               <!-- <p class="customer-name">NFK Sjøtransport</p> -->
             </div>
           </div>
@@ -287,7 +287,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg" loading="lazy" width="16%" alt="SIEMENS ENERGY Logo" />
+              <img src="https://img.nymaritimkompetanse.no/Partners/Siemens_Energy_logo.svg" loading="lazy" alt="SIEMENS ENERGY Logo" />
               <!--<p class="customer-name">Siemens energy</p>-->
             </div>
           </div>
@@ -297,7 +297,7 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://corvusenergy.com/wp-content/themes/corvus/assets/images/Corvus-logo.svg" loading="lazy" width="16%" alt="Corvus Energy Logo" />
+              <img src="https://img.nymaritimkompetanse.no/Partners/Corvus-logo.svg" loading="lazy" alt="Corvus Energy Logo" />
               <!-- <p class="customer-name">Corvus Energy</p> -->
             </div>
           </div>
@@ -305,7 +305,7 @@
         <div class="testamonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://www.gann.no/s/gann2019/profile/Skoleskipet-Gann-logo-horisontal.svg" loading="lazy" width="16%" alt="Skoleskipet MS Gann Logo" />
+              <img src="https://img.nymaritimkompetanse.no/Partners/Skoleskipet-Gann-logo-horisontal.svg" loading="lazy" alt="Skoleskipet MS Gann Logo" />
                 <!-- <p class="customer-name">Skoleskipet MS Gann</p> -->
             </div>
             <!-- <p class="testimonial-text"></p> -->
