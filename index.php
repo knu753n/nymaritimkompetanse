@@ -29,8 +29,8 @@
           <ul class="menu-items">
               <li><a href="#home">Hjem</a></li>
               <li><a href="#about">Om</a></li>
-              <li><a href="#base">Til nå</a></li>
-              <li><a href="#base-menu">Delprosjekter</a></li>
+              <!--<li><a href="#base">Til nå</a></li>-->
+              <li><a href="#base-menu">Deltakere</a></li>
               <li><a href="#testimonials">Våre samarbeidspartnere</a></li>
               <li><a href="#contact">Nyhetsbrev</a></li>
           </ul>
@@ -41,7 +41,7 @@
       <div class="showcase-container">
         <h1 class="main-title" id="home">Ny Maritim Kompetanse</h1>
         <p>Ny teknologi inn i det grønne skiftet</p>
-        <a href="#deltakere" class="btn btn-primary">Deltakere</a>
+        <a href="#base-menu" class="btn btn-primary">Deltakere</a>
       </div>
     </section>
 
