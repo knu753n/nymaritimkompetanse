@@ -29,8 +29,8 @@
           <ul class="menu-items">
               <li><a href="#home">Hjem</a></li>
               <li><a href="#about">Om</a></li>
-              <li><a href="#food">Til nå</a></li>
-              <li><a href="#food-menu">Delprosjekter</a></li>
+              <li><a href="#base">Til nå</a></li>
+              <li><a href="#base-menu">Delprosjekter</a></li>
               <li><a href="#testimonials">Våre samarbeidspartnere</a></li>
               <li><a href="#contact">Nyhetsbrev</a></li>
           </ul>
@@ -58,14 +58,14 @@
           </p>
         </div>
         <div class="about-img">
-          <img src="http://img.nymaritimkompetanse.no/Generell/IMG_3570.JPG" alt="food" />
+          <img src="http://img.nymaritimkompetanse.no/Generell/IMG_3570.JPG" alt="base" />
         </div>
       </div>
     </section>
-    <!-- <section id="food">
+    <!-- <section id="base">
       <h2>Noe av det vi har gjort</h2>
-      <div class="food-container container">
-        <div class="food-type fruite">
+      <div class="base-container container">
+        <div class="base-type fruite">
           <div class="img-container">
             <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="error" />
             <div class="img-content">
@@ -79,7 +79,7 @@
             </div>
           </div>
         </div>
-        <div class="food-type vegetable">
+        <div class="base-type vegetable">
           <div class="img-container">
             <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="error" />
             <div class="img-content">
@@ -93,7 +93,7 @@
             </div>
           </div>
         </div>
-        <div class="food-type grin">
+        <div class="base-type grin">
           <div class="img-container">
             <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="error" />
             <div class="img-content">
@@ -109,138 +109,138 @@
         </div>
       </div>
     </section> -->
-    <section id="food-menu">
-      <h2 class="food-menu-heading">Oversikt - deltakere</h2>
-      <div class="food-menu-container container">
-        <div class="food-menu-item">
-          <div class="food-img">
+    <section id="base-menu">
+      <h2 class="base-menu-heading">Oversikt - deltakere</h2>
+      <div class="base-menu-container container">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Børre.png" alt="Børre" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Børre Aasegg</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Børre Aasegg</h2>
             <p>Tittel: Prosjektleder</p>
             <p>Arbeidssted: Bodø Maritime</p>
             <p>Fokusområde: Batteri-, Hydrogenteknologi, Hybrid drift, nye drivstoff</p>
             <p>Bakgrunn: MARKOM, Lærer og fagkoordinator Bodin VGS og maritime fagskole.</p>
-            <p class="food-price"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
+            <p class="base-bold"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
 
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Magne.JPG" alt="Magne" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Magne Mydland</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Magne Mydland</h2>
             <p>Tittel: Kompetanseutvikler</p>
             <p>Arbeidssted: Fagskolen i Agder, Grimstad</p>
             <p>Fokusområde: Batteri-, Hydrogenteknologi, nye drivstoff</p>
             <p>Bakgrunn: Lærer og maskinskjef på sørlandets maritime vgs, elektriker ERV teknikk</p>
-            <p class="food-price"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
+            <p class="base-bold"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Roy.jpg" alt="Roy Lerand" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Roy Lerand</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Roy Lerand</h2>
             <p>Tittle: Media-ansvarlig</p>
             <p>Arbeidssted: Big See</p>
             <p>Fokusområde: Media og videoproduksjon</p>
             <p>Bakgrunn: Big See AS, Tv2</p>
-            <p class="food-price"> <a href="https://no.linkedin.com/in/leraand" target="_blank">Big See</a> </p>
+            <p class="base-bold"> <a href="https://no.linkedin.com/in/leraand" target="_blank">Big See</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Atle.jpg" alt="Atle Christiansen" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Atle Martin Christiansen</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Atle Martin Christiansen</h2>
             <p>Tittel: Kompetanseutvikler</p>
             <p>Arbeidssted: USN</p>
             <p>Fokusområde: Autonomi og fjernstyring av maritime farkoster</p>
             <p>Bakgrunn: Instituttleder USN, Senioringeniør forsvarets forksningsinstitutt</p>
-            <p class="food-price"> <a href="https://www.usn.no/" target="_blank">Universitetet i sør-øst Norge</a> </p>
+            <p class="base-bold"> <a href="https://www.usn.no/" target="_blank">Universitetet i sør-øst Norge</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Erlend.jpg" alt="Erlend Etellerannet" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Erlend Nicolay Morland</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Erlend Nicolay Morland</h2>
             <p>Tittel: Kompetanseutvikler</p>
             <p>Arbeidssted: USN</p>
             <p>Fokusområder: Crew kompetanse, Trening og utdanning for atomdrevne handelsskip</p>
             <p>Bakgrunn: Bachelor in electrical engineering and automation, Master of maritime management (Ongoing)</p>
-            <p class="food-price"> <a href="https://www.usn.no/" target="_blank">Universitetet i sør-øst Norge</a> </p>
+            <p class="base-bold"> <a href="https://www.usn.no/" target="_blank">Universitetet i sør-øst Norge</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Bjørn-Willy.jpg" alt="Bjørn-willy" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Bjørn-Willy Arntsen</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Bjørn-Willy Arntsen</h2>
             <p>Tittel: Kompetanseutvikler</p>
             <p>Arbeidssted: Bodø Maritime</p>
             <p>Fokusområde: Maskiner og motorer</p>
             <p>Bakgrunn: Maskinistlærer</p>
-            <p class="food-price"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
+            <p class="base-bold"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Bjørn.jpeg" alt="Bjørn J. Knutsen" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Bjørn Jostein Knutsen</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Bjørn Jostein Knutsen</h2>
             <p>Tittel: EDB-Systemansvarlig</p>
             <p>Arbeidssted: Fagskolen i Agder</p>
             <p>Fokusområde: Nettportal, delingsplattform</p>
             <p>Bakgrunn: Fagskolen i Agder, IKT-Agder</p>
-            <p class="food-price"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
+            <p class="base-bold"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Magnus.jpg" alt="Magnus Østlien" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Magnus Østlien</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Magnus Østlien</h2>
             <p>Tittel: Student Dekksoffiser</p>
             <p>Studiested: Fagskolen i Agder</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
             <p>Bakgrunn: Matros Hagland shipping, Sommerkadett Ulabrand Marine</p>
-            <p class="food-price"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
+            <p class="base-bold"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <img src="https://img.nymaritimkompetanse.no/Deltakere/Brynjar.jpg" alt="Brynjar" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Brynjar Duesund Valland</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Brynjar Duesund Valland</h2>
             <p>Tittel: Student Maskinoffiser</p>
             <p>Studeisted: Bodø Maritime</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
             <p>Bakgrunn: Motormann-lærling forsvaret, Matros Fjord 1</p>
-            <p class="food-price"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
+            <p class="base-bold"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
-        <div class="food-menu-item">
-          <div class="food-img">
+        <div class="base-menu-item">
+          <div class="base-img">
             <!--<img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Brynjar" />
           </div>
-          <div class="food-description">
-            <h2 class="food-titile">Brynjar Duesund Valland</h2>
+          <div class="base-description">
+            <h2 class="base-titile">Brynjar Duesund Valland</h2>
             <p>Tittel: Student Maskinoffiser</p>
             <p>Studeisted: Bodø Maritime</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
             <p>Bakgrunn: Motormann-lærling forsvaret, Matros Fjord 1</p>
-            <p class="food-price"> Nordland Fagskole </p>-->
+            <p class="base-bold"> Nordland Fagskole </p>-->
           </div>
         </div>
       </div>
