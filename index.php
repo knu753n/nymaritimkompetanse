@@ -122,7 +122,7 @@
             <p>Arbeidssted: Bodø Maritime</p>
             <p>Fokusområde: Batteri-, Hydrogenteknologi, Hybrid drift, nye drivstoff</p>
             <p>Bakgrunn: MARKOM, Lærer og fagkoordinator Bodin VGS og maritime fagskole.</p>
-            <p class="food-price"> Nordland Fagskole </p>
+            <p class="food-price"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
 
@@ -136,7 +136,7 @@
             <p>Arbeidssted: Fagskolen i Agder, Grimstad</p>
             <p>Fokusområde: Batteri-, Hydrogenteknologi, nye drivstoff</p>
             <p>Bakgrunn: Lærer og maskinskjef på sørlandets maritime vgs, elektriker ERV teknikk</p>
-            <p class="food-price"> Fagskolen i Agder </p>
+            <p class="food-price"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -149,7 +149,7 @@
             <p>Arbeidssted: Big See</p>
             <p>Fokusområde: Media og videoproduksjon</p>
             <p>Bakgrunn: Big See AS, Tv2</p>
-            <p class="food-price"> Big See </p>
+            <p class="food-price"> <a href="https://no.linkedin.com/in/leraand" target="_blank">Big See</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -162,7 +162,7 @@
             <p>Arbeidssted: USN</p>
             <p>Fokusområde: Autonomi og fjernstyring av maritime farkoster</p>
             <p>Bakgrunn: Instituttleder USN, Senioringeniør forsvarets forksningsinstitutt</p>
-            <p class="food-price"> Universitetet i sør-øst Norge </p>
+            <p class="food-price"> <a href="https://www.usn.no/" target="_blank">Universitetet i sør-øst Norge</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -175,7 +175,7 @@
             <p>Arbeidssted: USN</p>
             <p>Fokusområder: Crew kompetanse, Trening og utdanning for atomdrevne handelsskip</p>
             <p>Bakgrunn: Bachelor in electrical engineering and automation, Master of maritime management (Ongoing)</p>
-            <p class="food-price"> Universitetet i sør-øst Norge </p>
+            <p class="food-price"> <a href="https://www.usn.no/" target="_blank">Universitetet i sør-øst Norge</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -188,7 +188,7 @@
             <p>Arbeidssted: Bodø Maritime</p>
             <p>Fokusområde: Maskiner og motorer</p>
             <p>Bakgrunn: Maskinistlærer</p>
-            <p class="food-price"> Nordland Fagskole </p>
+            <p class="food-price"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -201,7 +201,7 @@
             <p>Arbeidssted: Fagskolen i Agder</p>
             <p>Fokusområde: Nettportal, delingsplattform</p>
             <p>Bakgrunn: Fagskolen i Agder, IKT-Agder</p>
-            <p class="food-price"> Fagskolen i Agder </p>
+            <p class="food-price"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -214,7 +214,7 @@
             <p>Studiested: Fagskolen i Agder</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
             <p>Bakgrunn: Matros Hagland shipping, Sommerkadett Ulabrand Marine</p>
-            <p class="food-price"> Fagskolen i Agder </p>
+            <p class="food-price"> <a href="https://www.fagskoleniagder.no" target="_blank">Fagskolen i Agder</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
@@ -227,7 +227,7 @@
             <p>Studeisted: Bodø Maritime</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
             <p>Bakgrunn: Motormann-lærling forsvaret, Matros Fjord 1</p>
-            <p class="food-price"> Nordland Fagskole </p>
+            <p class="food-price"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
         <div class="food-menu-item">
