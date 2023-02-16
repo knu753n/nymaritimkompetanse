@@ -141,7 +141,7 @@
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Roy Lerand" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Roy.jpg" alt="Roy Lerand" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Roy Lerand</h2>
@@ -167,7 +167,7 @@
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Erlend Etellerannet" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Erlend.jpg" alt="Erlend Etellerannet" />
           </div>
           <div class="food-description">
             <h2 class="food-titile">Erlend Nicolay Morland</h2>
@@ -180,10 +180,10 @@
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Bjørn-willy" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Bjørn-Willy.jpg" alt="Bjørn-willy" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Bjørn-Willy</h2>
+            <h2 class="food-titile">Bjørn-Willy Arntsen</h2>
             <p>Tittel: Kompetanseutvikler</p>
             <p>Arbeidssted: Bodø Maritime</p>
             <p>Fokusområde: Maskiner og motorer</p>
@@ -210,24 +210,37 @@
           </div>
           <div class="food-description">
             <h2 class="food-titile">Magnus Østlien</h2>
-            <p>Tittel: Student</p>
+            <p>Tittel: Student Dekksoffiser</p>
             <p>Studiested: Fagskolen i Agder</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
-            <p>Bakgrunn: Student dekksofficer</p>
+            <p>Bakgrunn: Matros Hagland shipping, Sommerkadett Ulabrand Marine</p>
             <p class="food-price"> Fagskolen i Agder </p>
           </div>
         </div>
         <div class="food-menu-item">
           <div class="food-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Brynjar" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Brynjar.jpg" alt="Brynjar" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Brynjar</h2>
-            <p>Tittel: Student</p>
+            <h2 class="food-titile">Brynjar Duesund Valland</h2>
+            <p>Tittel: Student Maskinoffiser</p>
             <p>Studeisted: Bodø Maritime</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
-            <p>Bakgrunn: Maskiniststudent</p>
+            <p>Bakgrunn: Motormann-lærling forsvaret, Matros Fjord 1</p>
             <p class="food-price"> Nordland Fagskole </p>
+          </div>
+        </div>
+        <div class="food-menu-item">
+          <div class="food-img">
+            <!--<img src="https://img.nymaritimkompetanse.no/Deltakere/siluett.svg" alt="Brynjar" />
+          </div>
+          <div class="food-description">
+            <h2 class="food-titile">Brynjar Duesund Valland</h2>
+            <p>Tittel: Student Maskinoffiser</p>
+            <p>Studeisted: Bodø Maritime</p>
+            <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
+            <p>Bakgrunn: Motormann-lærling forsvaret, Matros Fjord 1</p>
+            <p class="food-price"> Nordland Fagskole </p>-->
           </div>
         </div>
       </div>
