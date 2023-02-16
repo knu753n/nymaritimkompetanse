@@ -252,7 +252,7 @@
           <div class="customer-detail">
             <div class="customer-photo">
               <!--<img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" width="16%" loading="lazy" alt="SEAM Logo">-->
-              <img src="https://img.nymaritimkompetanse.no/Partners/SeamLogo.svg" width="16%" loading="lazy" alt="SEAM Logo">
+              <img src="https://img.nymaritimkompetanse.no/Partners/SeamLogo.svg" loading="lazy" alt="SEAM Logo">
 
                 <!-- <p class="customer-name">Westcon/SEAM</p> -->
             </div>
