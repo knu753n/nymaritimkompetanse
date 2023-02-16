@@ -54,7 +54,7 @@
             Vi er en gjeng med forskjellige bakgrunner og utdanninger, som har sett et behov for
             å skaffe opplæringsmatriell for de nye båtene, systemene, drivstoffene og teknologiene
             som er under stadig utvikling. Vi skal i dette prosjektet samle, bygge og produsere
-            ny maritim kompetanse. <a href="about.php">Les mer...</a>
+            ny maritim kompetanse. <!--<a href="about.php">Les mer...</a>-->
           </p>
         </div>
         <div class="about-img">
