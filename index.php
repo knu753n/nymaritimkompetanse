@@ -51,7 +51,7 @@
           <p class="small">Om Oss</p>
           <h2>Hvem er vi og hva gjør vi</h2>
           <p>
-            Vi er en gjeng med forskjellige bakgrunner og utdanninger, som har sett et behov for
+            Vi er en gjeng med forskjellig bakgrunn og utdanning, som har sett et behov for
             å skaffe opplæringsmatriell for de nye båtene, systemene, drivstoffene og teknologiene
             som er under stadig utvikling. Vi skal i dette prosjektet samle, bygge og produsere
             ny maritim kompetanse. <!--<a href="about.php">Les mer...</a>-->
@@ -119,9 +119,9 @@
           <div class="base-description">
             <h2 class="base-titile">Børre Aasegg</h2>
             <p>Tittel: Prosjektleder</p>
-            <p>Arbeidssted: Bodø Maritime</p>
+            <p>Arbeidssted: Nordland fagskole - Bodø Maritime</p>
             <p>Fokusområde: Batteri-, Hydrogenteknologi, Hybrid drift, nye drivstoff</p>
-            <p>Bakgrunn: MARKOM, Lærer og fagkoordinator Bodin VGS og maritime fagskole.</p>
+            <p>Bakgrunn: MARKOM, Faglig ansvarlig maskinoffiser utdanning</p>
             <p class="base-bold"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
           </div>
         </div>
@@ -185,7 +185,7 @@
           <div class="base-description">
             <h2 class="base-titile">Bjørn-Willy Arntsen</h2>
             <p>Tittel: Kompetanseutvikler</p>
-            <p>Arbeidssted: Bodø Maritime</p>
+            <p>Arbeidssted: Nordland fagskole - Bodø Maritime</p>
             <p>Fokusområde: Maskiner og motorer</p>
             <p>Bakgrunn: Maskinistlærer</p>
             <p class="base-bold"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
@@ -224,7 +224,7 @@
           <div class="base-description">
             <h2 class="base-titile">Brynjar Duesund Valland</h2>
             <p>Tittel: Student Maskinoffiser</p>
-            <p>Studeisted: Bodø Maritime</p>
+            <p>Studeisted: Nordland fagskole - Bodø Maritime</p>
             <p>Fokusområde: Studentinnvolvering og tilbakemelding</p>
             <p>Bakgrunn: Motormann-lærling forsvaret, Matros Fjord 1</p>
             <p class="base-bold"> <a href="https://www.fagskoleninordland.no" target="_blank">Nordland Fagskole</a> </p>
@@ -341,7 +341,7 @@
       </div>
     </section>-->
     <footer id="footer">
-      <h2><?php echo $name; ?> &copy; all rights reserved</h2>
+      <h2><?php echo $name; ?> &copy; all rights reserved | <a href="https://www.facebook.com/groups/722747985846125/">Facebook</a></h2>
     </footer>
   </body>
   <!-- 
