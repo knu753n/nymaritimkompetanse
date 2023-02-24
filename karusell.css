@@ -60,9 +60,9 @@
 }
 
 .karusell-button.prev {
-    left: -1rem;
+    left: -5rem;
 }
 
 .karusell-button.next {
-    right: -1rem;
+    right: -5rem;
 }
