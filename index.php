@@ -68,19 +68,19 @@
         <button class="karusell-button next" data-karusell-button="next">&#8658;</button>
         <ul data-slides>
           <li class="slide" data-active>
-            <img src="https://plus.unsplash.com/premium_photo-1663931932888-af47d49949bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" alt="">
+            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-01.jpg" alt="">
           </li>
           <li class="slide">
-            <img src="https://images.unsplash.com/photo-1676901594376-03912b93660e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" alt="">
+            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-02.jpg" alt="">
           </li>
           <li class="slide">
-            <img src="https://images.unsplash.com/photo-1677197375868-404d995d3853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1285&q=80" alt="">
+            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-03.jpg" alt="">
           </li>
           <li class="slide">
-            <img src="https://images.unsplash.com/photo-1677187315979-4a4be967000e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" alt="">
+            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-04.jpg" alt="">
           </li>
           <li class="slide">
-            <img src="https://images.unsplash.com/photo-1677195283584-9913e04fe968?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1286&q=80" alt="">
+            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-05.jpg" alt="">
           </li>
         </ul>
       </div>
