@@ -1,4 +1,4 @@
-const buttons = document.querySelector("[data-karusell-button]")
+const buttons = document.querySelectorAll("[data-karusell-button]")
 
 buttons.forEach(button => {
     button.addEventListener("click", () => {
