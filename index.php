@@ -11,7 +11,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="karusell.css" />
     <link rel="stylesheet" href="burger.css" />
   </head>
   <body>
@@ -29,7 +29,7 @@
           <ul class="menu-items">
               <li><a href="#showcase">Hjem</a></li>
               <li><a href="#about">Om</a></li>
-              <!--<li><a href="#base">Til nå</a></li>-->
+              <li><a href="#base">Bilder</a></li>
               <li><a href="#base-menu">Deltakere</a></li>
               <li><a href="#testimonials">Våre samarbeidspartnere</a></li>
               <!--<li><a href="#contact">Nyhetsbrev</a></li>-->
@@ -62,53 +62,29 @@
         </div>
       </div>
     </section>
-    <!-- <section id="base">
-      <h2>Noe av det vi har gjort</h2>
-      <div class="base-container container">
-        <div class="base-type fruite">
-          <div class="img-container">
-            <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="error" />
-            <div class="img-content">
-              <h3>fruite</h3>
-              <a
-                href="https://en.wikipedia.org/wiki/Fruit"
-                class="btn btn-primary"
-                target="blank"
-                >learn more</a
-              >
-            </div>
-          </div>
-        </div>
-        <div class="base-type vegetable">
-          <div class="img-container">
-            <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="error" />
-            <div class="img-content">
-              <h3>vegetable</h3>
-              <a
-                href="https://en.wikipedia.org/wiki/Vegetable"
-                class="btn btn-primary"
-                target="blank"
-                >learn more</a
-              >
-            </div>
-          </div>
-        </div>
-        <div class="base-type grin">
-          <div class="img-container">
-            <img src="https://i.postimg.cc/Xvh1jxG6/nmk.png" alt="error" />
-            <div class="img-content">
-              <h3>grin</h3>
-              <a
-                href="https://en.wikipedia.org/wiki/Grain"
-                class="btn btn-primary"
-                target="blank"
-                >learn more</a
-              >
-            </div>
-          </div>
-        </div>
+    <section id="base">
+      <div class="karusell" data-karusell>
+        <button class="karusell-button prev" data-karusell-button="prev">&#8656;</button>
+        <button class="karusell-button next" data-karusell-button="next">&#8658;</button>
+        <ul data-slides>
+          <li class="slide" data-active>
+            <img src="https://plus.unsplash.com/premium_photo-1663931932888-af47d49949bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" alt="">
+          </li>
+          <li class="slide">
+            <img src="https://images.unsplash.com/photo-1676901594376-03912b93660e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" alt="">
+          </li>
+          <li class="slide">
+            <img src="https://images.unsplash.com/photo-1677197375868-404d995d3853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1285&q=80" alt="">
+          </li>
+          <li class="slide">
+            <img src="https://images.unsplash.com/photo-1677187315979-4a4be967000e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" alt="">
+          </li>
+          <li class="slide">
+            <img src="https://images.unsplash.com/photo-1677195283584-9913e04fe968?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1286&q=80" alt="">
+          </li>
+        </ul>
       </div>
-    </section> -->
+    </section>
     <section id="base-menu">
       <h2 class="base-menu-heading">Oversikt - deltakere</h2>
       <div class="base-menu-container container">
@@ -349,4 +325,5 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="./smooth_scroll.js"></script>
+  <script src="karusell.js" defer></script>
 </html>
