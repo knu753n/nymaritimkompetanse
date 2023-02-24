@@ -224,29 +224,29 @@
     <section id="testimonials">
       <h2 class="testimonial-title">Våre samarbeidspartnere</h2>
       <div class="testimonial-container container">
-        <div class="testimonial-box">
+        <!--<div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <!--<img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" width="16%" loading="lazy" alt="SEAM Logo">-->
+              <img src="https://uploads-ssl.webflow.com/638eedf9bea3b0030295c86a/638eedf9bea3b0d3e395c87c_SeamLogo.svg" width="16%" loading="lazy" alt="SEAM Logo">
               <img src="https://img.nymaritimkompetanse.no/Partners/SeamLogo.svg" loading="lazy" alt="SEAM Logo">
 
-                <!-- <p class="customer-name">Westcon/SEAM</p> -->
+                <p class="customer-name">Westcon/SEAM</p>
             </div>
           </div>
           <p class="testimonial-text"></p>
-        </div>
+        </div>-->
 
-        <div class="testimonial-box">
+        <!--<div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
             <img src="https://img.nymaritimkompetanse.no/Partners/Norledlogo.svg" loading="lazy" alt="Norled Logo"/>
-              <!-- <p class="customer-name">Norled</p> -->
+              <p class="customer-name">Norled</p>
             </div>
           </div>
           <p class="testimonial-text">
  
           </p>
-        </div>
+        </div>-->
 
         <div class="testimonial-box">
           <div class="customer-detail">
