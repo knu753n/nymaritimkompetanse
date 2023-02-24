@@ -138,7 +138,7 @@
             <p>Arbeidssted: USN</p>
             <p>Fokusområde: Autonomi og fjernstyring av maritime farkoster</p>
             <p>Bakgrunn: Instituttleder USN, Senioringeniør forsvarets forksningsinstitutt</p>
-            <p class="base-bold"> <a href="https://www.usn.no/" target="_blank">Universitetet i Sørøst Norge</a> </p>
+            <p class="base-bold"> <a href="https://www.usn.no/" target="_blank">Universitetet i Sørøst-Norge</a> </p>
           </div>
         </div>
         <div class="base-menu-item">
