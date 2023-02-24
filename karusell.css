@@ -5,7 +5,9 @@
 .karusell {
     width: 50vw;
     height: 50vh;
-    position: relative
+    position: relative;
+    justify-content: center;
+
 }
 
 .karusell > ul {
