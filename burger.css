@@ -347,6 +347,7 @@ body {
   justify-content: space-between;
   font-size: 1.4rem;
   padding: 1rem;
+  background-color: rgba(0, 0, 0, .2)
 }
 
 .testimonial-box .checked {
