@@ -99,6 +99,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
+          <!--
           <li class="slide" data-active>
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/06.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/06.jpg 800w,
@@ -218,7 +219,7 @@ En stor takk til mannskapet som viste oss rundt!
 	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg 1025w"
 	          sizes="50vw"
           >
-          </li>
+          </li>-->
         </ul>
       </div>
     </section>
