@@ -61,17 +61,21 @@ En stor takk til mannskapet som viste oss rundt!
         <ul data-slides>
 
           <li class="slide" data-active="true">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/01.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/01.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
-            </p>
-          </div>
+            <li>
+              <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/01.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/01.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg 1025w"
+              sizes="50vw"
+              >
+            </li>
+            <li>
+              <div class="overlay">
+                <p>
+              MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
+              </p>
+            </div>
+            </li>
           </li>
 
           <li class="slide">
