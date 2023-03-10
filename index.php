@@ -68,7 +68,7 @@
         <button class="karusell-button next" data-karusell-button="next">&#8658;</button>
         <ul data-slides>
           <li class="slide" data-active>
-            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-01.jpg" alt="">
+            <a class="imagelink" href="ms_medstraum.php"><img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""></a>
           </li>
           <li class="slide">
             <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-02.jpg" alt="">
