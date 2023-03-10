@@ -34,6 +34,14 @@
     object-position: center;
 }
 
+.slide > a > img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
 .slide[data-active] {
     opacity: 1;
     z-index: 1;
