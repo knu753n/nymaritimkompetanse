@@ -61,6 +61,7 @@ En stor takk til mannskapet som viste oss rundt!
         <ul data-slides>
 
           <li class="slide" data-active="true">
+            <ul>
             <li>
               <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""
               srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/01.jpg 800w,
@@ -76,6 +77,7 @@ En stor takk til mannskapet som viste oss rundt!
               </p>
             </div>
             </li>
+            </ul>
           </li>
 
           <li class="slide">
