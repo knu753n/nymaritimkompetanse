@@ -55,7 +55,7 @@ En stor takk til mannskapet som viste oss rundt!
       </div>
     </section>
     <section id="base">
-      <div class="karusell" data-karusell>
+      <div class="karusell" data-karusell-articles>
         <button class="karusell-button prev" data-karusell-button="prev">&#8656;</button>
         <button class="karusell-button next" data-karusell-button="next">&#8658;</button>
         <ul data-slides>

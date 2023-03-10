@@ -4,7 +4,7 @@ buttons.forEach(button => {
     button.addEventListener("click", () => {
         const offset = button.dataset.karusellButton === "next" ? 1 : -1
         const slides = button
-            .closest("[data-karusell]")
+            .closest("[data-karusell-articles]")
             .querySelector('[data-slides]')
 
         const activeSlide = slides.querySelector("[data-active]")
