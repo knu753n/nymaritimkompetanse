@@ -66,6 +66,11 @@ En stor takk til mannskapet som viste oss rundt!
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg 1025w"
             sizes="50vw"
           >
+          <div class="overlay">
+            <p>
+            MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
+            </p>
+          </div>
           </li>
           <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/02.jpg" alt=""
