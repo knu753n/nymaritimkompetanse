@@ -41,7 +41,7 @@
       </div>
     </section>
 
-    <section id="slides">
+    <section id="about">
       <div class="about-wrapper container">
         <div class="about-text">
           <p class="small">Om Oss</p>
@@ -54,12 +54,12 @@ En stor takk til mannskapet som viste oss rundt!
         </div>
       </div>
     </section>
-    <section id="base">
+    <section id="slides">
       <div class="karusell" data-karusell-articles>
         <button class="karusell-button prev" data-karusell-button="prev">&#8656;</button>
         <button class="karusell-button next" data-karusell-button="next">&#8658;</button>
         <ul data-slides>
-          <li class="slide" data-active>
+          <li class="slide" data-active="true">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/01.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/01.jpg 1024w,
