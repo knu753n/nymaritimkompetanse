@@ -316,5 +316,5 @@ En stor takk til mannskapet som viste oss rundt!
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="./smooth_scroll.js"></script>
-  <script src="./karusell-articles.js"></script>
+  <script src="./karusell-articles.js" defer></script>
 </html>
