@@ -36,13 +36,21 @@
 
 .overlay {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    left: 25%;
+    bottom: 5%;
     opacity: 10;
-    background: black;
+    width:50%;
+    background:rgba(0, 0, 0, 0.5);
     cursor: pointer;
+    display:inline-flex;
+    object-fit:contain;
+    object-position:center;
+    
+}
+
+.overlay > p {
+    color: white;
+    font-size: 1em;
 }
 
 .slide > a > img {
