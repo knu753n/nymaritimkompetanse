@@ -55,7 +55,7 @@ En stor takk til mannskapet som viste oss rundt!
       </div>
     </section>
     <section id="slides">
-      <div class="karusell" data-karusell-articles>
+      <div class="karusell" data-karusell>
         <button class="karusell-button prev" data-karusell-button="prev">&#8656;</button>
         <button class="karusell-button next" data-karusell-button="next">&#8658;</button>
         <ul data-slides>
@@ -67,7 +67,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/02.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/02.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/02.jpg 1024w,
@@ -75,7 +75,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/03.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/03.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/03.jpg 1024w,
@@ -83,7 +83,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/04.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/04.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/04.jpg 1024w,
@@ -91,7 +91,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/05.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/05.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/05.jpg 1024w,
@@ -99,8 +99,8 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <!--
-          <li class="slide" data-active>
+          
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/06.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/06.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/06.jpg 1024w,
@@ -108,7 +108,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/07.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/07.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/07.jpg 1024w,
@@ -116,7 +116,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/08.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/08.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/08.jpg 1024w,
@@ -124,7 +124,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/09.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/09.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/09.jpg 1024w,
@@ -132,7 +132,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/10.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/10.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/10.jpg 1024w,
@@ -140,7 +140,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/11.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/11.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/11.jpg 1024w,
@@ -148,7 +148,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/12.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/12.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/12.jpg 1024w,
@@ -156,7 +156,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/13.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/13.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/13.jpg 1024w,
@@ -164,7 +164,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/14.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/14.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/14.jpg 1024w,
@@ -172,7 +172,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/15.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/15.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/15.jpg 1024w,
@@ -180,7 +180,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/16.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/16.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/16.jpg 1024w,
@@ -188,7 +188,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/17.jpg" alt=""
             srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/17.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/17.jpg 1024w,
@@ -196,7 +196,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/18.jpg" alt=""
 	          srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/18.jpg 800w,
             https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/18.jpg 1024w,
@@ -204,7 +204,7 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/19.jpg" alt=""
 	          srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/19.jpg 800w,
 	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/19.jpg 1024w,
@@ -212,14 +212,14 @@ En stor takk til mannskapet som viste oss rundt!
 	          sizes="50vw"
           >
           </li>
-          <li class="slide" data-active>
+          <li class="slide">
           <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg" alt=""
 	          srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/20.jpg 800w,
 	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/20.jpg 1024w,
 	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg 1025w"
 	          sizes="50vw"
           >
-          </li>-->
+          </li>
         </ul>
       </div>
     </section>
@@ -316,5 +316,5 @@ En stor takk til mannskapet som viste oss rundt!
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="./smooth_scroll.js"></script>
-  <script src="./karusell-articles.js" defer></script>
+  <script src="./karusell.js" defer></script>
 </html>
