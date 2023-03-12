@@ -68,9 +68,11 @@ En stor takk til mannskapet som viste oss rundt!
             sizes="50vw"
           >
           <div class="overlay">
-            <p class="center_text">
-            MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
-            </p>
+            <div class="center_text">
+              <p>
+                MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
+              </p>
+            </div>
           </div>
           </li>
 
