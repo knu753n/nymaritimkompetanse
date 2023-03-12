@@ -44,8 +44,8 @@
     <section id="about">
       <div class="about-wrapper container">
         <div class="about-text">
-          <p class="small">Om Oss</p>
-          <h2>Hvem er vi og hva gjør vi</h2>
+          <p class="small">Artikler</p>
+          <h2>MS-Medstraum</h2>
           <p>
           NyMK fikk i februar komme om bord i MS Medstraum for å se på hvordan fartøyet driftes.<br> Fartøyet er bygd på Fjellstrand Verft, er eid av mobilitetsselskapet Kolumbus og ble kåret til «Ship of The Year» av Skipsrevyen i 2022. Mannskapet som drifter fartøyet kommer fra Norled.<br>
 MS Medstraum er en hel-elektrisk katamaran hurtigbåt med 2 framdriftslinjer som består av batteripakke, omformere og styringselektronikk, el-motor, gir og propell.<br> Fartøyet lader når det ligger til kai. Fartøyet har en passasjerkapasitet på 147 personer og opereres med en hastighet på 23 knop, på testtur oppnådde de en fart på 27 knop.<br> 
