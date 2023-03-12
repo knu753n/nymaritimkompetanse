@@ -47,13 +47,15 @@
     
 }
 
-
-.center_text {
-    text-align: center;
-}
 .overlay > p {
     color: white;
     font-size: 1em;
+    background-color: blanchedalmond;
+}
+
+.center_text {
+    text-align: center;
+    background-color: aqua;
 }
 
 .slide > a > img {
