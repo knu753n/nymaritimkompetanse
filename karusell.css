@@ -50,12 +50,11 @@
 .overlay > p {
     color: white;
     font-size: 1em;
-    background-color: blanchedalmond;
+    object-position: center;
 }
 
 .center_text {
     text-align: center;
-    background-color: aqua;
 }
 
 .slide > a > img {
