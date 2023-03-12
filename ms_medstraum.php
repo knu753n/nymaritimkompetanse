@@ -61,285 +61,323 @@ En stor takk til mannskapet som viste oss rundt!
         <ul data-slides>
 
           <li class="slide" data-active="true">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/01.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/01.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <div class="center_text">
-              <p>
-                MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
-              </p>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/01.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/01.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  MS Medstraum på tur inn til Stavanger hvor den har basen og ladestasjon
+                </p>
+              </div>
             </div>
-          </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/02.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/02.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/02.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/02.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            NyMK klar til å gå ombord
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/02.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/02.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/02.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/02.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  NyMK klar til å gå ombord
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/03.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/03.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/03.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/03.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Baugtillegg
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/03.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/03.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/03.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/03.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Baugtillegg
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/04.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/04.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/04.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/04.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Maskinpasser Rikard Kolbjørnsen viser oss SB batterirom med Corvus Dolphin Power luftkjølte batterier
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/04.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/04.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/04.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/04.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Maskinpasser Rikard Kolbjørnsen viser oss SB batterirom med Corvus Dolphin Power luftkjølte batterier
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/05.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/05.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/05.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/05.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            MS Medstraum har 2 batteripakker på hver 762 kWh, totalt 1524 kWh
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/05.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/05.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/05.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/05.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  MS Medstraum har 2 batteripakker på hver 762 kWh, totalt 1524 kWh
+                </p>
+              </div>
+            </div>
           </li>
           
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/06.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/06.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/06.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/06.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Fra SB maskinrom som fremstår som mye mindre enn det vi er vant til fra konvensjonelle hurtigbåter. Her står blant annet el- motor og gir.
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/06.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/06.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/06.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/06.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Fra SB maskinrom som fremstår som mye mindre enn det vi er vant til fra konvensjonelle hurtigbåter. Her står blant annet el- motor og gir.
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/07.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/07.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/07.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/07.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            SB El-motor på 550 kW for drift av gir/propell med væskekjølte strømkabler.
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/07.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/07.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/07.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/07.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  SB El-motor på 550 kW for drift av gir/propell med væskekjølte strømkabler.
+                </p>
+              </div>
+            </div>
           </li>
           
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/08.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/08.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/08.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/08.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            SB Tavlerom med control uniter
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/08.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/08.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/08.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/08.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  SB Tavlerom med control uniter
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/09.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/09.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/09.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/09.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Fartøyet er utstyrt med NOVEC slukkesystem
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/09.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/09.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/09.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/09.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Fartøyet er utstyrt med NOVEC slukkesystem
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/10.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/10.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/10.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/10.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Bro utrustning
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/10.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/10.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/10.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/10.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Bro utrustning
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/11.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/11.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/11.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/11.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Plass for overvåkning av de tekniske systemene, batteripakker og fremdriftslinjer.
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/11.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/11.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/11.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/11.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Plass for overvåkning av de tekniske systemene, batteripakker og fremdriftslinjer.
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/12.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/12.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/12.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/12.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            NyMK får innføring i systemene av Rikard Kolbjørnsen
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/12.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/12.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/12.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/12.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  NyMK får innføring i systemene av Rikard Kolbjørnsen
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/13.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/13.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/13.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/13.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Oversikt over fremdriftssystemene
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/13.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/13.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/13.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/13.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Oversikt over fremdriftssystemene
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/14.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/14.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/14.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/14.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Detaljer på BB batteripakke med celle- temperatur, spenning etc.
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/14.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/14.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/14.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/14.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Detaljer på BB batteripakke med celle- temperatur, spenning etc.
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/15.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/15.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/15.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/15.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Oversikt på BB batteripakke
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/15.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/15.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/15.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/15.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Oversikt på BB batteripakke
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/16.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/16.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/16.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/16.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Fartøyet er bemannet av 4 personer. Her ser vi maskinpasser, matros og overstyrmann, Kaptein var opptatt på annet hold.
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/16.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/16.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/16.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/16.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Fartøyet er bemannet av 4 personer. Her ser vi maskinpasser, matros og overstyrmann, Kaptein var opptatt på annet hold.
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/17.jpg" alt=""
-            srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/17.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/17.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/17.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Fotbryter ved styreposisjon for å kjøre thruster
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/17.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/17.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/17.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/17.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Fotbryter ved styreposisjon for å kjøre thruster
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/18.jpg" alt=""
-	          srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/18.jpg 800w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/18.jpg 1024w,
-            https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/18.jpg 1025w"
-            sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Ladestasjon med effekt på opptil 2,3 MW
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/18.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/18.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/18.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/18.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Ladestasjon med effekt på opptil 2,3 MW
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/19.jpg" alt=""
-	          srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/19.jpg 800w,
-	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/19.jpg 1024w,
-	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/19.jpg 1025w"
-	          sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            Ladestasjon som leverer til både SB og BB batteripakke. Hver batteripakke kan lades med 3 x CCS lade kontakter.
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/19.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/19.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/19.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/19.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  Ladestasjon som leverer til både SB og BB batteripakke. Hver batteripakke kan lades med 3 x CCS lade kontakter.
+                </p>
+              </div>
+            </div>
           </li>
 
           <li class="slide">
-          <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg" alt=""
-	          srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/20.jpg 800w,
-	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/20.jpg 1024w,
-	          https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg 1025w"
-	          sizes="50vw"
-          >
-          <div class="overlay">
-            <p>
-            CCS Ladestasjon ombord
-            </p>
-          </div>
+            <img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg" alt=""
+              srcset="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Phone/20.jpg 800w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/Tablet/20.jpg 1024w,
+              https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/20.jpg 1025w"
+              sizes="50vw"
+            >
+            <div class="overlay">
+              <div class="center_text">
+                <p>
+                  CCS Ladestasjon ombord
+                </p>
+              </div>
+            </div>
           </li>
 
         </ul>

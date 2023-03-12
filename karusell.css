@@ -44,17 +44,19 @@
     display:inline-flex;
     object-fit:contain;
     object-position:center;
-    
 }
 
-.overlay > p {
+.overlay > .center_text > p {
     color: white;
     font-size: 1em;
-    object-position: center;
 }
 
 .center_text {
-    text-align: center;
+    height:100%;
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
 .slide > a > img {
