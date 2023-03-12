@@ -37,10 +37,8 @@
 
 .overlay {
     position: absolute;
-    left: 25%;
-    bottom: 5%;
-    opacity: 10;
-    width:50%;
+    width: inherit;
+    height: 5%;
     background:rgba(0, 0, 0, 0.5);
     cursor: pointer;
     display:inline-flex;
@@ -52,6 +50,7 @@
 .overlay > p {
     color: white;
     font-size: 1em;
+    text-align: center;
 }
 
 .slide > a > img {
