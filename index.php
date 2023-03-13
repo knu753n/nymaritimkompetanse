@@ -71,16 +71,10 @@
             <a class="imagelink" href="ms_medstraum.php"><img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""></a>
           </li>
           <li class="slide">
-            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-02.jpg" alt="">
+          <a class="imagelink" href="gann.php"><img src="https://img.nymaritimkompetanse.no/Sites/Gann/01.jpg" alt=""></a>
           </li>
           <li class="slide">
-            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-03.jpg" alt="">
-          </li>
-          <li class="slide">
-            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-04.jpg" alt="">
-          </li>
-          <li class="slide">
-            <img src="https://img.nymaritimkompetanse.no/Generell/Prinsen-05.jpg" alt="">
+          <a class="imagelink" href="mf_nesvik.php"><img src="https://img.nymaritimkompetanse.no/Sites/MF-Nesvik/01.jpg" alt=""></a>
           </li>
         </ul>
       </div>
