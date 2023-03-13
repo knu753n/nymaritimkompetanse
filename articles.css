@@ -449,6 +449,10 @@ body {
   background: rgb(65, 65, 65);
 }
 
+
+.spacer {
+  height: 25px;
+}
 /* ......../ media query /.......... */
 
 @media (max-width: 995px) {

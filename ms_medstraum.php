@@ -383,7 +383,7 @@ En stor takk til mannskapet som viste oss rundt!
         </ul>
       </div>
     </section>
-    <section><p><br></p></section>
+    <div class="spacer"></div>
     <section id="testimonials">
       <h2 class="testimonial-title">Våre samarbeidspartnere</h2>
       <div class="testimonial-container container">
