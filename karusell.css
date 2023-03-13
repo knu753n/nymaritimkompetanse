@@ -103,3 +103,8 @@
 .karusell-button.next {
     right: -5rem;
 }
+
+.imagelink {
+    border: 5px;
+    border-color: aliceblue;
+}

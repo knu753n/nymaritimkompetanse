@@ -84,7 +84,7 @@
       <div class="base-menu-container container">
         <div class="base-menu-item">
           <div class="base-img">
-            <img src="https://img.nymaritimkompetanse.no/Deltakere/Børre.png" alt="Børre" />
+            <img src="https://img.nymaritimkompetanse.no/Deltakere/Børre_Aasegg.JPG" alt="Børre" />
           </div>
           <div class="base-description">
             <h2 class="base-titile">Børre Aasegg</h2>
