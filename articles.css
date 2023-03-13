@@ -451,7 +451,8 @@ body {
 
 
 .spacer {
-  margin: 25px;
+  margin-top:25px;
+  margin-bottom: 25px;
 }
 /* ......../ media query /.......... */
 
