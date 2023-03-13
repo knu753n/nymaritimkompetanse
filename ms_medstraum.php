@@ -37,7 +37,7 @@
       <div class="showcase-container">
         <h1 class="main-title" id="home">Ny Maritim Kompetanse</h1>
         <p>Ny teknologi inn i det grønne skiftet</p>
-        <a href="#base-menu" class="btn btn-primary">Deltakere</a>
+        <a href="#slides" class="btn btn-primary">Bilder</a>
       </div>
     </section>
 
