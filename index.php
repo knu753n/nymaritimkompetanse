@@ -69,12 +69,15 @@
         <ul data-slides>
           <li class="slide" data-active>
             <a class="imagelink" href="ms_medstraum.php"><img src="https://img.nymaritimkompetanse.no/Sites/MS-Medstraum/01.jpg" alt=""></a>
+            <p>Klikk på bildet for å lese mer om MS Medstraum</p>
           </li>
           <li class="slide">
           <a class="imagelink" href="gann.php"><img src="https://img.nymaritimkompetanse.no/Sites/Gann/01.jpg" alt=""></a>
+          <p>Klikk på bildet for å lese mer om Skoleskipet Gann</p>
           </li>
           <li class="slide">
           <a class="imagelink" href="mf_nesvik.php"><img src="https://img.nymaritimkompetanse.no/Sites/MF-Nesvik/01.jpg" alt=""></a>
+          <p>Klikk på bildet for å lese mer om MF Nesvik</p>
           </li>
         </ul>
       </div>
